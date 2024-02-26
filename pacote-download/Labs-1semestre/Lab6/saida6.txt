@@ -1,0 +1,21 @@
+Senhoras e senhores,
+É com grande honra que vos apresento
+O lab mais dificil da historia.
+----------------------------------------
+
+C:\PastaP\Comida\frutas.txt 
+	goiaba: 15 ocorrencias
+	chuchu: 0 ocorrencias
+	jaca: 1 ocorrencias
+
+C:\PastaP\Comida\verduras.txt 
+	couve-flor: 13 ocorrencias
+
+C:\MeusDocumentos\bizuario.txt 
+	ARQUIVO NAO ENCONTRADO.
+
+C:\fauna\bixos\mamiferos.txt 
+	rinoceronte: 5 ocorrencias
+
+C:\fauna\bixos\insetos.txt 
+	aranha: 0 ocorrencias

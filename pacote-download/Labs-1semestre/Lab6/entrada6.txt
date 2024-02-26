@@ -1,0 +1,16 @@
+Exemplo de arquivo de entrada.
+Nas 4 primeiras linhas pode haver qualquer texto.
+Na tabela as colunas podem ser de qualquer tamanho.
+Bla bla
+---------------------------------------------------------------
+| PASTA                      | ARQUIVO     | PROCURAR PALAVRA |
+|----------------------------|-------------|------------------|
+| C:\PastaP\Comida           | frutas      | goiaba           |
+|      =                     |   =         | chuchu           |
+|      =                     |   =         | jaca             |
+|      =                     | verduras    | couve-flor       |
+| C:\MeusDocumentos          | bizuario    | mat-12           |
+|      =                     |   =         | mocado           |
+| C:\fauna\bixos             | mamiferos   | rinoceronte      |
+|      =                     | insetos     | aranha           |
+---------------------------------------------------------------

@@ -1,0 +1,18 @@
+A matrix estah em todo lugar.
+Eh tudo que nos rodeia. Mesmo agora, nesta sala.
+TAKE THE RED PILL!
+----------
+ (a)
+O menor elemento eh -89
+Estah na posicao (8, 0)
+ (b)
+O elemento que contem mais vizinhos negativos eh -31
+Estah na posicao (7, 3)
+Possui 8 vizinhos negativos
+ (c)
+O par de elementos com menor diferença de valor eh:
+-1 na posicao (0, 0)
+-1 na posicao (3, 4)
+ (d)
+A "norma um" vale 144.1
+Ocorre na coluna 0

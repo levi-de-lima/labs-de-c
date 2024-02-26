@@ -1,0 +1,14 @@
+Por que o programador confunde o natal com o halloween?
+Porque 25 dec = 31 oct.
+2.10 + 5 = 3.8 + 1
+----
+ 1: 339
+ 2: 2C05
+ 3: 11000000111001
+ 4: 2EB
+ 5: 15585
+ 6: 111110101011
+ 7: 1
+ 8: 93
+ 9: 2A
+10: 46

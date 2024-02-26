@@ -1,0 +1,23 @@
+Software para agenda eletronica
+Exemplo de arquivo de entrada
+Bla bla
+--------------------------------------------------
+Numero maximo de elementos na agenda:
+0
+--------------------------------------------------
+TAREFA   IMPORTANCIA   DESCRICAO
+--------------------------------------------------
+NOVA          40       Estudar matematica
+PROXIMA
+PROXIMA
+NOVA          45       Fazer
+NOVA          50       Relatorio de quimica
+NOVA           8       Pentear o cabelo
+NOVA          75       Responder e-mails
+PROXIMA
+PROXIMA
+PROXIMA
+PROXIMA
+PROXIMA
+PROXIMA
+FIM

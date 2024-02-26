@@ -1,0 +1,22 @@
+As quatro primeiras linhas do arquivo de entrada 
+possuem algum texto. 
+Esta eh a terceira linha. Bla. 
+----
+juros  R$ 0   0%   0   S
+juros  R$  0  0%     0   s
+juros  R$ 0  0%  0   C
+media  0     0
+media  0       0
+media  0  0
+media  0     0
+pmvs   0
+pmvs   0
+pmvs   0
+pmvs   0
+hexa   0
+hexa   0
+hexa   0
+hexa   0
+hexa   0
+hexa   0
+hexa   0

@@ -1,0 +1,9 @@
+  77 F equivale a   25 Celsius.
+ -77 F equivale a  -60 Celsius.
+ 101 F equivale a   38 Celsius.
+ 102 F equivale a   38 Celsius.
+ 103 F equivale a   39 Celsius.
+  32 F equivale a    0 Celsius.
+  33 F equivale a    0 Celsius.
+ 212 F equivale a  100 Celsius.
+ 214 F equivale a  101 Celsius.

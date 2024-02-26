@@ -1,0 +1,10 @@
+Confeitaria da Mariazinha
+Panela boa e' que faz comida velha
+Os pedidos dos clientes foram:
+-----
+33 bolos, 11 gelatinas, 19 frutas e 3 sorvetes.
+1 bolo, 2 gelatinas, 1 fruta e 4 sorvetes.
+5 gelatinas.
+9 bolos, 1 gelatina e 27 sorvetes.
+35 bolos.
+7 gelatinas e 55 sorvetes.

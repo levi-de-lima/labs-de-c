@@ -1,0 +1,15 @@
+Arquivo de saida. Lab 4.
+    Contador de dias:   
+     Ele conta dias     
+------------------------
+ 1:     41 dias.
+ 2:     40 dias.
+ 3:    101 dias.
+ 4:    102 dias.
+ 5: 210456 dias.
+ 6:      0 dias.
+ 7:      1 dias.
+ 8:     13 dias.
+ 9:  30751 dias.
+10:   3333 dias.
+11:    877 dias.

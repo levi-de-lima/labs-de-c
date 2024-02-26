@@ -1,0 +1,14 @@
+As quatro primeiras linhas do arquivo de entrada 
+possuem algum texto. 
+Bla-bla-bla...
+----
+ 2 10 101010011
+ 2 16 10110000000101
+10  2 12345
+10 16 747
+16 10 3CE1
+16  2 FAB
+ 5  9 1
+ 8 10 135 
+ 7 12 46
+12  7 2A
